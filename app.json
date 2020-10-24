@@ -1,0 +1,12 @@
+{
+  "name": "mathaf-front",
+  "displayName": "mathaf-front",
+  "expo": {
+    "name": "mathaf-front",
+    "slug": "mathaf-front",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
